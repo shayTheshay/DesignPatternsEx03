@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BasicFacebookFeatures.AlbumManager" Collapsed="true">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAgAAAAAAAAAAAAAAAQAAAAAAAAAEgAAAAAAAAA=</HashCode>
+      <FileName>AdditionalClasses\AlbumManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.GroupManager" Collapsed="true">
+    <Position X="24.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBAAAAAAAAABAAAAAAEAAAAAQAAAAAAAgEAAAAAAAg=</HashCode>
+      <FileName>AdditionalClasses\GroupManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.UserSession" Collapsed="true">
+    <Position X="21" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEFAAAAAAACAAAgAgAIAEAAAAAAABQAAIAABAAAAAA=</HashCode>
+      <FileName>AdditionalClasses\UserSession.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.GroupBaseHandler" Collapsed="true">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAACAAIAAAA=</HashCode>
+      <FileName>DesignPatternsExample\ChainOfCommand\GroupBaseHandler.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BasicFacebookFeatures.NoBadWordsHandler" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAACAAAAAAQ=</HashCode>
+      <FileName>DesignPatternsExample\ChainOfCommand\NoBadWordsHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.NotEmptyPostHandler" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\ChainOfCommand\NotEmptyPostHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.TooLongPostHandler" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\ChainOfCommand\TooLongPostHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.FormFactory" Collapsed="true">
+    <Position X="22.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Factory Method\FormFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.AppSettings" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAgAAEAgAAAAAAAAAwEAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Proxy\AppSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.FormWithSettingsProxy" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAACAAAAAAAAAAEAAAAEAAA=</HashCode>
+      <FileName>DesignPatternsExample\Proxy\FormWithSettingsProxy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.FormMain" Collapsed="true">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAIBCAAAiAABAShAACAAAwSAAAhQoAAAAAAAAQoAAg=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.Program" Collapsed="true">
+    <Position X="21" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.DesignPatternsExample.Strategy.AdultAge" BaseTypeListCollapsed="true">
+    <Position X="32.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Strategy\AdultAge.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.693" />
+  </Class>
+  <Class Name="BasicFacebookFeatures.DesignPatternsExample.Strategy.AgeFactory">
+    <Position X="30.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Strategy\AgeFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.DesignPatternsExample.Strategy.Context">
+    <Position X="32.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Strategy\Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.DesignPatternsExample.Strategy.SeniorAge" BaseTypeListCollapsed="true">
+    <Position X="34.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Strategy\SeniorAge.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BasicFacebookFeatures.DesignPatternsExample.Strategy.YoungAge" BaseTypeListCollapsed="true">
+    <Position X="30.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Strategy\YoungAge.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BasicFacebookFeatures.Properties.Resources" Collapsed="true">
+    <Position X="22.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.Properties.Settings" Collapsed="true">
+    <Position X="19.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.Subforms.FormAgeRangeCheck">
+    <Position X="38.75" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="BasicFacebookFeatures.Subforms.FormAgeRangeCheck.eAgeRange" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Subforms\FormAgeRangeCheck.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQAAABAACCAAAAAAAEGAAAACAACAAIAAAIAAAAQAAAA=</HashCode>
+      <FileName>Subforms\FormAgeRangeCheck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.Subforms.FormAlbumCrosspost">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACCAAACABAhCAAgCAABAiAAAAAAAAAAAAAABBAAA=</HashCode>
+      <FileName>Subforms\FormAlbumCrosspost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.Subforms.FormAlbumView">
+    <Position X="36.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAAACABCgIAAACAAAAKAAAAAAAAAACAAACAAAA=</HashCode>
+      <FileName>Subforms\FormAlbumView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.Subforms.FormGroupCrossPost" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAgAAAMCAJAAABAACAAAACwAAAAgAAACAAAgAgEAg=</HashCode>
+      <FileName>Subforms\FormGroupCrossPost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.Subforms.FormGroupView" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABICAJAAAAgACAACACAAAACAAAACAEAgBAAAA=</HashCode>
+      <FileName>Subforms\FormGroupView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.Subforms.FormLikedPages" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAADABAAAQAAKBAQACAAAAAAAAAAAAAgAAABA=</HashCode>
+      <FileName>Subforms\FormLikedPages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.Subforms.FormUserDetails" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AiAAIEAAECABAAAACgCACAACCAAQkAEJAIAAghAAAAA=</HashCode>
+      <FileName>Subforms\FormUserDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BasicFacebookFeatures.DayMode" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAACAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Abstract Factory\DayMode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BasicFacebookFeatures.NightMode" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAACAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Abstract Factory\NightMode.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="BasicFacebookFeatures.IStyleFactory" Collapsed="true">
+    <Position X="22.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAACAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Abstract Factory\IStyleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BasicFacebookFeatures.IGroupHandler" Collapsed="true">
+    <Position X="21" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\ChainOfCommand\IGroupHandler.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="BasicFacebookFeatures.DesignPatternsExample.Strategy.IAgeStrategy">
+    <Position X="32.5" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Strategy\IAgeControll.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BasicFacebookFeatures.eFormType" Collapsed="true">
+    <Position X="19.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABAAAAAAAAAACAABCAAQAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>DesignPatternsExample\Factory Method\FormFactory.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="BasicFacebookFeatures.OnAuthErrorEventHandler" Collapsed="true">
+    <Position X="19.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdditionalClasses\GroupManager.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="BasicFacebookFeatures.OnStyleChanged" Collapsed="true">
+    <Position X="21" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DesignPatternsExample\Proxy\AppSettings.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
